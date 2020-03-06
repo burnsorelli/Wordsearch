@@ -1,0 +1,8 @@
+C:\Users\Burns\source\repos\NewWordSearch\NewWordSearch\bin\Debug\NewWordSearch.exe.config
+C:\Users\Burns\source\repos\NewWordSearch\NewWordSearch\bin\Debug\NewWordSearch.exe
+C:\Users\Burns\source\repos\NewWordSearch\NewWordSearch\bin\Debug\NewWordSearch.pdb
+C:\Users\Burns\source\repos\NewWordSearch\NewWordSearch\obj\Debug\NewWordSearch.csprojAssemblyReference.cache
+C:\Users\Burns\source\repos\NewWordSearch\NewWordSearch\obj\Debug\NewWordSearch.Properties.Resources.resources
+C:\Users\Burns\source\repos\NewWordSearch\NewWordSearch\obj\Debug\NewWordSearch.csproj.GenerateResource.cache
+C:\Users\Burns\source\repos\NewWordSearch\NewWordSearch\obj\Debug\NewWordSearch.exe
+C:\Users\Burns\source\repos\NewWordSearch\NewWordSearch\obj\Debug\NewWordSearch.pdb
